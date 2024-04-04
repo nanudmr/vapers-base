@@ -1,0 +1,28 @@
+.herobox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.herobox .vapers-logo{
+    padding: 24px 0;
+}
+
+p{
+    font-family: inter, Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: light;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+.icons{
+    display: flex;
+    gap: 16px;
+}
+
+a.facebook-button{
+    margin: 1px solid red;
+}
